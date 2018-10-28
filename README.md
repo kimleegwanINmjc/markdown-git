@@ -17,3 +17,4 @@
   * git clone <저장소 url>
 >새로운 원격 저장소 추가하기
   * git remote add <원격 저장소> <저장소 url>
+* * *
