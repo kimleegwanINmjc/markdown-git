@@ -1,3 +1,3 @@
 # Git , Markdown
-## 1) Git
-> adsadsads
+##  Git
+### 1.설정과 초기화
