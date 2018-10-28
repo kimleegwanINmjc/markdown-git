@@ -114,3 +114,7 @@ function square(n) {
   return n * n;
 }
 </code></pre>
+## 6.링크
+HTML의 하이퍼링크와 같은 링크는 다음과 같이 작성합니다. 'title'은 생략이 가능합니다.
+<pre><code>[네이버]https://www.naver.com</code></pre>
+[네이버]https://www.naver.com
