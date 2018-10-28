@@ -75,7 +75,7 @@
 * * *
 # Markdown
 ## 1.제목(Heading)
-<pre><code>문서를 작성할 때 가장 기본이 되는 제목은 HTML의 <h1>~<h6> 태그와 유사합니다.</code></pre>
+<pre><code>문서를 작성할 때 가장 기본이 되는 제목은 HTML의 h1~h6 태그와 유사합니다.</code></pre>
 <pre><code># Heading</code></pre>
  # Heading 
 <pre><code>### Heading</code></pre>
