@@ -118,3 +118,5 @@ function square(n) {
 HTML의 하이퍼링크와 같은 링크는 다음과 같이 작성합니다. 'title'은 생략이 가능합니다.
 <pre><code>[네이버]https://www.naver.com</code></pre>
 [네이버]https://www.naver.com
+## 7.수평선
+문단과 문단 사이를 나눌 때 등 사용되는 수평선은 HTML의 'hr /'과 같이 동작합니다.
