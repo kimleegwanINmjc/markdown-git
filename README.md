@@ -149,5 +149,5 @@ __강조__한 텍스트
 ![대체 텍스트](/경로/example.jpg)
 ![대체 텍스트](링크)
 </code></pre>
-![naver](http://post.naver.com/viewer/postView.nhn?volumeNo=15361053&memberNo=3466203/)
+![naver](https://post.naver.com/viewer/postView.nhn?volumeNo=15361053&memberNo=3466203#)
 
