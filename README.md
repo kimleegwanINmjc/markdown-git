@@ -149,5 +149,17 @@ __강조__한 텍스트
 ![대체 텍스트](/경로/example.jpg)
 ![대체 텍스트](링크)
 </code></pre>
-![naver](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![google](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+## 10.표
+## 10.표
+<pre><code>
+|과일|가격|
+|:---:||:---:|
+|사과|1000|
+|오랜지|1500|
+</code></pre>
+|과일|가격|
+|:---:||:---:|
+|사과|1000|
+|오랜지|1500|
 
